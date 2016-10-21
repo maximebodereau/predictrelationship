@@ -5,7 +5,12 @@ Based on telegraph.co.uk story
 
 The formula explained:
 
+HETERO:
 L = 8 + .5Y - .2P + .9Hm + .3Mf + J - .3G - .5(Sm - Sf)2 + I + 1.5C
+
+SAME:
+L = 8 + .5Y - .2P + 2J - .3G - .5(S1 - S2)2 - I + 1.5C
+
 
 L: The predicted length in years of the relationship
 
